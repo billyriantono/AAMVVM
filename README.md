@@ -20,7 +20,7 @@ Open terminal
 
 ```bash
 cd /Applications/Android\ Studio.app/Contents/plugins/android/lib/templates
-git clone https://github.com/HeadingMobile/AAMVVM.git
+git clone https://github.com/billyriantono/AAMVVM.git
 ```
 
 - Windows
@@ -30,7 +30,7 @@ Open cmd
 ```bash
 cd ${Android studio路径}\plugins\android\lib\templates
 // 例：cd C:\Program Files\Android\Android Studio\plugins\android\lib\templates
-git clone https://github.com/HeadingMobile/AAMVVM.git
+git clone https://github.com/billyriantono/AAMVVM.git
 ```
 
 Then restart Android Studio。
