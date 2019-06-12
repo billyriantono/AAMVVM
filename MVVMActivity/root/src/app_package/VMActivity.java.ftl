@@ -1,5 +1,5 @@
 /**
- * generate by AAMVVM: https://github.com/HeadingMobile/AAMVVM
+ * generate by AAMVVM: https://github.com/billyriantono/AAMVVM
  */
 package ${packageName};
 
@@ -7,6 +7,8 @@ import ${superClassFqcn};
 <#if generateViewModel>
 import ${packageName}.viewmodel.${shortName}ViewModel;
 </#if>  
+import ${packageName}.view.base.BaseActivity
+import ${packageName}.databinding.${activityClass}Binding
 
 /**
  * description: ${activityClass}

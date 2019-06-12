@@ -10,12 +10,11 @@
         </#if>            
     </data>
 
-    <LinearLayout
+    <android.support.constraint.ConstraintLayout
         android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:orientation="vertical">
+        android:layout_height="match_parent">
         
 
 
-    </LinearLayout>
+    </android.support.constraint.ConstraintLayout>
 </layout>

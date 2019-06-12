@@ -1,7 +1,9 @@
 /**
- * generate by AAMVVM: https://github.com/HeadingMobile/AAMVVM
+ * generate by AAMVVM: https://github.com/billyriantono/AAMVVM
  */
 package ${packageName}.viewmodel
+
+import ${packageName}.viewmodel.BaseViewModel
 
 /**
  * description: ${viewmodelName}

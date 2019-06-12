@@ -1,11 +1,13 @@
 /**
- * generate by AAMVVM: https://github.com/HeadingMobile/AAMVVM
+ * generate by AAMVVM: https://github.com/billyriantono/AAMVVM
  */
 package ${escapeKotlinIdentifiers(packageName)}
 <#if generateViewModel>
 import org.koin.android.viewmodel.ext.android.viewModel
 import ${packageName}.viewmodel.${shortName}ViewModel
 </#if>  
+import ${packageName}.view.base.BaseActivity
+import ${packageName}.databinding.${activityClass}Binding
 
 /**
  * description: ${activityClass}

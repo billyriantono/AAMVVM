@@ -3,6 +3,8 @@
  */
 package ${packageName}.viewmodel
 
+import ${packageName}.viewmodel.BaseViewModel
+
 /**
  * description: ${viewmodelName}
  *

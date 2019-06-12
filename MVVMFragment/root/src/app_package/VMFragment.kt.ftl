@@ -6,6 +6,8 @@ package ${escapeKotlinIdentifiers(packageName)}
 import org.koin.android.viewmodel.ext.android.viewModel
 import ${packageName}.viewmodel.${shortName}ViewModel
 </#if> 
+import ${packageName}.view.base.BaseFragment
+import ${packageName}.databinding.${fragmentClass}Binding
 
 /**
  * description: ${fragmentClass}
